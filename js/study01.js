@@ -1,6 +1,17 @@
+// data type
 console.log("object");
+// data number
 console.log(123456);
+// data boolean
 console.log(true);
+// data Array
+console.log([1,2,3]);
+// data object
+console.log({Fullname:"Wong",a:1,b:2});
+// data null
+console.log(null);
+// data undefined
+console.log(undefined);
 
 var a = 10;
 var b = 20;
@@ -16,4 +27,4 @@ let data01 ="wow";
 let data02 =123456;
 //เวลาเอาข้อมูลหลากหลายแบบมาใช้ร่วมกัน
 console.log("aaa"+555+data01+data02);
-console.log(`aaa${555}${data01}${data02}&  bbb`);
+console.log(`aaa${555}${data01}${data02}bbb`);
